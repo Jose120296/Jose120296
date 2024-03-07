@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jose Farrera</h1>
 <div align="center">
   <p>👨‍💻 Desarrollador Full Stack apasionado por resolver problemas y crear experiencias web impactantes.</p>
+  <p>🎨 Creativo por naturaleza, 🧠 ingenioso por elección y 💻 programador por pasión.</p>
+  <p>🌐 Vivo en el mundo del desarrollo web, donde cada línea de código es una pincelada en mi lienzo digital.</p>
   <p>🌟 <strong>Habilidades Técnicas:</strong></p>
   <ul>
     <li>JavaScript: React, Node.js, Express.js, construcción de SPA y MERN Stack.</li>
@@ -17,6 +19,20 @@
     <li>Implementación de mejores prácticas de desarrollo y operaciones (DevOps).</li>
     <li>Monitoreo del progreso del proyecto mediante herramientas como JIRA o Trello.</li>
   </ul>
+
+    <p>🛠️ <strong>Habilidades Full Stack:</strong></p>
+  <ul>
+    <li>🎨 Frontend: React que brilla más que un unicornio en un campo de arcoíris. HTML, CSS y JavaScript son mis pinceles y paleta.</li>
+    <li>🔧 Backend: Node.js y Express.js, donde cocino APIs tan deliciosas que hasta Gordon Ramsay las aprobaría.</li>
+    <li>🗃️ Bases de Datos: Diseño y manejo de bases de datos con la precisión de un relojero suizo.</li>
+    <li>🔍 SEO: Optimización que hace que Google quiera poner mi trabajo en su página principal.</li>
+    <li>📱 Responsive Design: Diseños que se adaptan a cualquier pantalla como camaleones tecnológicos.</li>
+  </ul>
+  <p>👥 <strong>Colaboración:</strong> Trabajo en equipo que haría que los Avengers me llamaran para unirme.</p>
+  <p>🚀 <strong>Innovación:</strong> Siempre buscando la próxima gran idea, ¡mi cerebro es un laboratorio de startups!</p>
+  <p>💼 <strong>Profesionalismo:</strong> Entregas puntuales y calidad impecable, mi compromiso es tan sólido como el adamantium.</p>
+  <p>📫 ¿Listo para llevar tu proyecto al siguiente nivel? ¡Contáctame en [tu correo electrónico] o en [tu LinkedIn] y hagamos magia juntos!</p>
+</div>
 
   <ul>
     <li>Liderazgo de equipos técnicos y no técnicos.</li>
