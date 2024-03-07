@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jose Farrera</h1>
+
 <div align="center">
   <h1>Hi 👋, I'm Jose Farrera</h1>
   <p>👨‍💻 Desarrollador Full Stack apasionado por resolver problemas y crear experiencias web impactantes.</p>
@@ -28,6 +28,8 @@
     <li>🔍 SEO: Optimización que hace que Google quiera poner mi trabajo en su página principal.</li>
     <li>📱 Responsive Design: Diseños que se adaptan a cualquier pantalla como camaleones tecnológicos.</li>
   </ul>
+</div>
+<div>
   <p>👥 <strong>Colaboración:</strong> Trabajo en equipo que haría que los Avengers me llamaran para unirme.</p>
   <p>🚀 <strong>Innovación:</strong> Siempre buscando la próxima gran idea, ¡mi cerebro es un laboratorio de startups!</p>
   <p>💼 <strong>Profesionalismo:</strong> Entregas puntuales y calidad impecable, mi compromiso es tan sólido como el adamantium.</p>
