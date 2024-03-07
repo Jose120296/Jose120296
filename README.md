@@ -33,7 +33,7 @@
   <p>💼 <strong>Profesionalismo:</strong> Entregas puntuales y calidad impecable, mi compromiso es tan sólido como el adamantium.</p>
   <p>📫 ¿Listo para llevar tu proyecto al siguiente nivel? ¡Contáctame en [tu correo electrónico] o en [tu LinkedIn] y hagamos magia juntos!</p>
   <p>💼 Estoy siempre en busca de nuevas oportunidades para crecer profesionalmente y aportar valor a proyectos innovadores.</p>
-  <p>📫 ¿Cómo contactarme? A través de [tu correo electrónico] o en [tu LinkedIn].</p>
+  <p>📫 ¿Cómo contactarme? A través de [Farrerajsoe96@gmail.com] o en [https://www.linkedin.com/in/jose-farrera-44723b180/].</p>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
