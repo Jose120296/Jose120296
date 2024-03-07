@@ -19,8 +19,8 @@
     <li>Implementación de mejores prácticas de desarrollo y operaciones (DevOps).</li>
     <li>Monitoreo del progreso del proyecto mediante herramientas como JIRA o Trello.</li>
   </ul>
-
-    <p>🛠️ <strong>Habilidades Full Stack:</strong></p>
+  
+<p>🛠️ <strong>Habilidades Full Stack:</strong></p>
   <ul>
     <li>🎨 Frontend: React que brilla más que un unicornio en un campo de arcoíris. HTML, CSS y JavaScript son mis pinceles y paleta.</li>
     <li>🔧 Backend: Node.js y Express.js, donde cocino APIs tan deliciosas que hasta Gordon Ramsay las aprobaría.</li>
@@ -28,10 +28,10 @@
     <li>🔍 SEO: Optimización que hace que Google quiera poner mi trabajo en su página principal.</li>
     <li>📱 Responsive Design: Diseños que se adaptan a cualquier pantalla como camaleones tecnológicos.</li>
   </ul>
-  <p>👥 <strong>Colaboración:</strong> Trabajo en equipo que haría que los Avengers me llamaran para unirme.</p>
-  <p>🚀 <strong>Innovación:</strong> Siempre buscando la próxima gran idea, ¡mi cerebro es un laboratorio de startups!</p>
-  <p>💼 <strong>Profesionalismo:</strong> Entregas puntuales y calidad impecable, mi compromiso es tan sólido como el adamantium.</p>
-  <p>📫 ¿Listo para llevar tu proyecto al siguiente nivel? ¡Contáctame en [tu correo electrónico] o en [tu LinkedIn] y hagamos magia juntos!</p>
+    <p>👥 <strong>Colaboración:</strong> Trabajo en equipo que haría que los Avengers me llamaran para unirme.</p>
+    <p>🚀 <strong>Innovación:</strong> Siempre buscando la próxima gran idea, ¡mi cerebro es un laboratorio de startups!</p>
+    <p>💼 <strong>Profesionalismo:</strong> Entregas puntuales y calidad impecable, mi compromiso es tan sólido como el adamantium.</p>
+    <p>📫 ¿Listo para llevar tu proyecto al siguiente nivel? ¡Contáctame en [tu correo electrónico] o en [tu LinkedIn] y hagamos magia juntos!</p>
 </div>
 
   <ul>
@@ -39,8 +39,8 @@
     <li>Metodologías ágiles: Scrum y Kanban.</li>
     <li>Planificación de sprints, seguimiento de tareas y entrega continua.</li>
   </ul>
-  <p>💼 Estoy siempre en busca de nuevas oportunidades para crecer profesionalmente y aportar valor a proyectos innovadores.</p>
-  <p>📫 ¿Cómo contactarme? A través de [tu correo electrónico] o en [tu LinkedIn].</p>
+    <p>💼 Estoy siempre en busca de nuevas oportunidades para crecer profesionalmente y aportar valor a proyectos innovadores.</p>
+    <p>📫 ¿Cómo contactarme? A través de [tu correo electrónico] o en [tu LinkedIn].</p>
 </div>
 
 
